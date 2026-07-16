@@ -1,4 +1,4 @@
-# Optical emulation of quantum state tomography and Bell test—A novel undergraduate experiment
+# Emulation of Quantum State Tomography and the Bell Test using Classically Entangled Light Beams
 
 ## Abstract
 
